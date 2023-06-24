@@ -45,7 +45,7 @@ map.remove(1)
 ```
 
 # Documentation
-If you're interested in understanding the details you can read my blog post [here]().
+If you're interested in understanding the details you can read my blog post [here](https://debby-nirwan.medium.com/how-is-c-map-implemented-8cc10c93684a).
 
 # Issues
 Please report issues if you found bugs or raise a Pull Request.
